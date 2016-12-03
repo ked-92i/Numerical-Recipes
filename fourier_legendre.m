@@ -1,6 +1,6 @@
 #Given a a function defined on a real interval [x0,xf],  determine the coordinate representation of the function relative to the n-dimensional #Legendre basis
 #Method: we are essentially computing the dim-th partial sum of the Fourrier-Legendre series expansion of f
-#	 That expansion is done relative the n first Legendre polynomials, which are ONLY defined on [-1,1]. If anyone wants to help with scaling,   please make a pull request.	
+#	 That expansion is done relative the n first Legendre polynomials, which are ONLY defined on [-1,1]. If anyone wants to help with scaling,   please fork.	
 function coord = fourier_legendre( x0, xf, dim, f )
   
 	#the interval of integration is [x0,xf]. The fineness of the partition (h) can be changed here, if needed
