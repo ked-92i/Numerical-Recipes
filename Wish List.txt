@@ -12,3 +12,7 @@ _Use the methods of mathematical analysis to extend the domain of certain functi
 _Differentiation and Integration as operators on function spaces (ie, differentiaing a polynomial amounts to removing the leading monomial and updating the coefficients of the remaining monomials. Differenting the compositie of a linear function and an exponential/cosine/sine function amounts to multiplying the function by the coefficient of the linear term, while integration amounts to division).
 _Matrix vector spaces: norms, decompositions, vector spaces of transformations
 _Analysis of random processes. Specifically, using Wiener Processes to model brownian motion and other "random" phenomena
+
+
+This wishlist is subject to change. Suggestions are welcome.
+Koco
