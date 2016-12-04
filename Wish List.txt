@@ -13,6 +13,6 @@ _Differentiation and Integration as operators on function spaces (ie, differenti
 _Matrix vector spaces: norms, decompositions, vector spaces of transformations
 _Analysis of random processes. Specifically, using Wiener Processes to model brownian motion and other "random" phenomena
 
-
 This wishlist is subject to change. Suggestions are welcome.
+Best,
 Koco
