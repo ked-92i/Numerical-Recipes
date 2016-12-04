@@ -1,0 +1,14 @@
+There are a number of procedures I want to add to this repository. These procedures come from my personal excursions in pure and applied Mathematics. Some of them are:
+
+_Forward Substitution algorithm to solve systems of linear equations
+_Finite Difference algorithm to produce the newton polynomial
+_Vibrations of a circular membrane: a standard way to solve this problem is to simulate the height of the drum at any given point and time u(x,y,t ) using a Bessel function of the first kind which satisfies some boundary conditions.
+_Fractal Shapes: I am currently investigating "classical" fractals such as the Cantor ternary set, the Sierpinski triangle and carpet, the Mandelbrot set, and the Barnsley's fern. Some of the properties I am investigating are membership in the set, construction and graphical representation. I am also trying to understand what exactly are Julia and Fatou sets - has anyone tried reading wikipedia's definition?
+_Iterated Function Systems, as a means to generate fractals but also as a specific instance of a more general concept (a sequence/net)
+_Phase space analysis and Parameter estimation for "classical" ordinary differential equations: Van der Pol, Bernouilli, Hodgkin–Huxley equations are only a few. A look into the possible orbits, especially in the plane (the Poincaré–Bendixson theorem
+ comes to mind).
+_Also, investigate the differential equations, weight functions and inner products that give rise to the orthogonal polynomials that can be used as a basis for L2 - such polynomials include the Legendre polynomials, the Hermite polynomials, and the Laguerre polynomials.
+_Use the methods of mathematical analysis to extend the domain of certain functions from the integers to the reals - Most notably Euler's work with the gamma function (factorial) ) and Newton's binomial series. A commentary on Euler's work can be found here: http://eulerarchive.maa.org/hedi/HEDI-2003-12.pdf
+_Differentiation and Integration as operators on function spaces (ie, differentiaing a polynomial amounts to removing the leading monomial and updating the coefficients of the remaining monomials. Differenting the compositie of a linear function and an exponential/cosine/sine function amounts to multiplying the function by the coefficient of the linear term, while integration amounts to division).
+_Matrix vector spaces: norms, decompositions, vector spaces of transformations
+_Analysis of random processes. Specifically, using Wiener Processes to model brownian motion and other "random" phenomena
