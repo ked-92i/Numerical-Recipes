@@ -12,6 +12,7 @@ _Use the methods of mathematical analysis to extend the domain of certain functi
 _Differentiation and Integration as operators on function spaces (ie, differentiaing a polynomial amounts to removing the leading monomial and updating the coefficients of the remaining monomials. Differenting the compositie of a linear function and an exponential function amounts to multiplying the function by the coefficient of the linear term, while integration amounts to division by that same number. There are similar relations between the cosine/sine functions and their second derivatives and antiderivatives, which I expect one learns about in an intermediate analyssis course).
 _Matrix vector spaces: norms, decompositions, vector spaces of transformations
 _Analysis of random processes. Specifically, using Wiener Processes to model brownian motion and other "random" phenomena
+_Qualitatve analysis of the shape of various probability mass functions (pmfs), notably their summability over their support
 
 This wishlist is subject to change. Suggestions are welcome.
 Best,
