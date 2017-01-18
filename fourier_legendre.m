@@ -12,7 +12,7 @@ function coord = fourier_legendre( x0, xf, dim, f )
   	coord=zeros(1,dim+1);   
   
 	for i=1:dim+1
-	    	#We first compute the ith Legendre polynomial of order 0
+	    	#Compute the ith Legendre polynomial of order i
 	    	temp= (legendre( i - 1,xx))(1,:)  ;  
 	    	#Compute the values of  f(x)*Pn(x) and Pn(x)^2
 	    	tempf=f(xx).*temp;
